@@ -1,0 +1,5 @@
+- penambahan latar belakang di ceritakan dari jurnal yang kita rujuk
+- penambahan pseudocode pada metodologi penelitian
+- penambahan diagram dan bagan rumus pada metodologi penelitian
+- menambahkan referensi 6 jurnal atau lebih
+- penambahakan jadwal penelitian
